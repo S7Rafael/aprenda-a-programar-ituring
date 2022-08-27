@@ -1,7 +1,7 @@
 let nome = "Rafael"
 let email = "rafashleymel778email.com"
 let profissao = "programador"
-let idade = "13"
+let idade = 13
 let lugar = "canada"
 string = nome
 string = email
